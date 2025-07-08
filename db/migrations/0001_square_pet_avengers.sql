@@ -1,0 +1,1 @@
+ALTER TABLE "habit_days" ADD COLUMN "completed" boolean DEFAULT false NOT NULL;
